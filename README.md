@@ -6,34 +6,30 @@
 
 </header>
 
-## Welcome
+<!--
+  <<< Author notes: Step 1 >>>
+  Choose 3-5 steps for your course.
+  The first step is always the hardest, so pick something easy!
+  Link to docs.github.com for further explanations.
+  Encourage users to open new tabs for steps!
+-->
 
-Welcome to **PM Interview Prep Club**—your free pathway to PM success! Get ready to secure your dream Product Manager role with our comprehensive resources and community support.
+## Step 1: Enable GitHub Pages
 
-- **Who is this for**: Aspiring Product Managers, recent grads, and anyone looking to level-up their PM interview skills.
-- **What you'll access**:
-  - 📝 **1,000+ Real PM Interview Questions** from top companies  
-  - ⚡ **Instant AI-Powered Feedback** to refine your interview responses
-  - 🎁 **10 Free AI Credits** to jumpstart your practice
-  - 🤝 **A Community of Aspiring PMs** to support your journey
-- **How to get started**: Simply visit our website, sign up, and start practicing for free!
+_Welcome to GitHub Pages and Jekyll :tada:!_
 
-### Explore More
+The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
 
-- [Practice Questions](https://www.pminterviewprep.club/learn)  
-  Dive into our extensive library of interview questions.
-- [AI Feedback](https://www.pminterviewprep.club/challenge)  
-  Get personalized, instant feedback powered by AI.
-- [Join the Community](https://www.pminterviewprep.club/community)  
-  Connect with fellow PM candidates and share insights.
-- [Get Your Credits](https://www.pminterviewprep.club/auth/signin)  
-  Claim your 10 free AI credits and power up your practice.
+### :keyboard: Activity: Enable GitHub Pages
 
-### How to Start
-
-1. Visit our homepage: [https://www.pminterviewprep.club](https://www.pminterviewprep.club)
-2. Sign up for a free account.
-3. Start exploring our PM interview questions and resources immediately!
+1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
+1. Under your repository name, click **Settings**.
+1. Click **Pages** in the **Code and automation** section.
+1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
+1. Click the **Save** button.
+1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
+   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
 
 <footer>
 
